@@ -1,5 +1,7 @@
 # SMART on FHIR Demo
 
+For this demonstration we will be using the **SMART Growth Chart** application. This app is open source. You can browse its source here: https://github.com/smart-on-fhir/growth-chart-app
+
 # Part 1 - A Simple Launch
 
 Try launching the following URL to see a demo SMART on FHIR Application using a pre-existing dataset. 
