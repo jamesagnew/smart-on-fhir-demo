@@ -15,7 +15,9 @@ Login Credentials (enter these when prompted to log in):
 Client Credentials (not needed for this demo but supplied just in case):
   * Client ID: `growth_chart`
   * Client Secret: `helloclient`
-  
+
+* You can revoke access at the following link: https://smartdemo.smilecdr.com:9200/oauth/revoke
+
 # Part 2 - Create Your Own Data
 
 For the following exercise, you will now create your own data and launch the SMART Growth Chart app to display it.
