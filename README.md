@@ -74,7 +74,7 @@ Note the following: Resource IDs below will contain a string `family-given`. Rep
 ```json
 {
   "resourceType": "Observation",
-  "id": "family-given-weight-1",
+  "id": "family-given-height-1",
   "code": {
     "coding": [ {
       "system": "http://loinc.org",
